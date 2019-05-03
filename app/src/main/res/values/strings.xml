@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="persona">PAX :</string>
+    <string name="per">Per person: </string>
+</resources>
